@@ -10,7 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/ldenblyd/react-thumbnails-video-preview.git"
   },
-  "author": "ldenblyd & cjumelin",
+  "author": {
+    "name": "Loan Denblyden",
+    "email": "l.denblyden@gmail.com",
+    "url": "https://github.com/ldenblyd"
+  },
+  "contributors": [
+    {
+      "name": "cjumelin",
+      "email": "cjumelin@protonmail.com",
+      "url": "https://github.com/cjumelin"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ldenblyd/react-thumbnails-video-preview/issues"
