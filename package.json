@@ -39,5 +39,16 @@
     "style-loader": "^1.0.1",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
-  }
+  },     
+  "keywords": [
+    "grid",
+    "video",
+    "thumbnail",
+    "react",
+    "react-component",
+    "image",
+    "videos",
+    "images",
+    "youtube"
+  ]
 }
