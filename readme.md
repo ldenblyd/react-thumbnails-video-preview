@@ -24,7 +24,6 @@
 		);
 	}
 
-example here:
  [![Edit react-thumbnails-video-preview basic usage](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/pedantic-pasteur-xbufi?fontsize=14&hidenavigation=1&theme=dark)
 
 ## List usage:
@@ -50,7 +49,7 @@ you just need to add more elements in list array
 	];
 	...
 
-example here: 
+ 
 [![Edit grid example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/grid-example-nj3zk?fontsize=14&hidenavigation=1&theme=dark)
 	
 ## imgError :
@@ -70,5 +69,4 @@ or in List object for individuals images error
 		imgError:  `https://dummyimage.com/200x200/111/fff&text=error-loading`
 	}];
 	...
-example here:
 [![Edit error gestion](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/error-gestion-gxlpu?fontsize=14&hidenavigation=1&theme=dark)
