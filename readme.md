@@ -41,9 +41,9 @@ you just need to add more elements in list array
 		},
 		{
 			imgList: [
-				`https://dummyimage.com/200x200/111/fff&text=3`,
-				`https://dummyimage.com/200x200/111/fff&text=`,
-				`https://dummyimage.com/200x200/111/fff&text=3`
+				`https://dummyimage.com/200x200/111/fff&text=4`,
+				`https://dummyimage.com/200x200/111/fff&text=5`,
+				`https://dummyimage.com/200x200/111/fff&text=6`
 			]
 		}
 	];
